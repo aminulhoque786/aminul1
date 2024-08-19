@@ -1,0 +1,29 @@
+#service{
+    padding: 120px 120px;
+    background-color: #EDF3F7;
+}
+.works{
+    text-align: center;
+    align-items: center;
+}
+.works h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+.works p{
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+}
+.google{
+    padding-top: 120px;
+}
+.juker img{
+    width:290px;
+}
+.juker.card{
+    padding: 20px 160px;
+}
+.card{
+    margin: 20px;
+}

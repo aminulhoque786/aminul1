@@ -1,0 +1,21 @@
+#youth{
+    background-image: url('../../assets/header1.png');
+    background-size: cover; /* Make the background cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+ padding:200px 0; 
+}
+.inner h2{
+    font-size: 64px;
+    font-weight: bold;
+    width: 600;
+    font-family: "Poppins", sans-serif;
+}
+.might p{
+    border-left: 4px solid #29313D;
+    padding: 20px;
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    width: 542;
+
+}

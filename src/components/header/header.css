@@ -1,0 +1,35 @@
+.menu-bg{
+background-color:rgb(250, 193, 202);
+font-size: 20px;
+column-gap: 40px;
+text-decoration: none;
+font-weight: 500;
+}
+.menu-bg a{
+    text-decoration: none;
+    color: #222;
+    font-size: 20px;
+   
+}
+.navbar-nav {
+    column-gap: 30px;
+   
+}
+@media(min-width:576px) and (max-width:767px){
+    .container{
+        width:100%!important;
+        overflow: hidden;
+    }
+    .text h2 {
+        
+        margin-left: 2px;
+      }
+      .text p {
+       width:0px;
+       margin-left: 2px;
+       
+      }
+     
+      
+     
+    }

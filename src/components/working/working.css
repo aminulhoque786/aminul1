@@ -1,0 +1,54 @@
+#working{
+padding-top: 120px;
+
+}
+.process{
+    text-align: center;
+    align-items: center;
+}
+.process h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-weight: 600;
+}
+.process p{
+    font-family: "Nunito Sans", sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+}
+.card{
+    text-align: center;
+    align-items: center;
+    
+    --bs-card-border-color: transparent ;
+    border-color: transparent !important;
+    box-shadow: 5px 1px 3px lightblue;
+}
+.h5, h5 {
+    font-size: 30px;
+}
+
+.card-title  {
+    padding-top: 30px;
+    width: 252px;
+    font-size: 25px;
+}
+.bio .card-title{
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 252px;
+    border: none;
+}
+.gol {
+    width:80px;
+    height:80px;
+    border-radius: 50%;
+    background-color:rgb(250, 193, 202);
+    margin-right: 110%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.kui img{
+    width:70px;
+}

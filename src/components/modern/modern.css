@@ -1,0 +1,21 @@
+
+.much h2{
+font-size: 20px;
+font-family: "Poppins", sans-serif;
+width: 567;
+}
+.much p{
+    font-family: "Nunito", sans-serif;
+    font-size: 10px;
+    padding-top: 10px;
+}
+.high {
+    padding-top: 120px;
+    text-align: center;
+    align-items: center;
+}
+.high h2{
+    font-size: 68px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+}

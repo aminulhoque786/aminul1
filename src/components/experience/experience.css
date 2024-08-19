@@ -1,0 +1,49 @@
+#experience{
+    padding: 120px 100px;
+    background-color: rgb(247, 225, 228);
+}
+.hook h2{
+    font-size: 48px;
+    width:255;
+    font-weight: 600px;
+}
+.luk{
+    padding-top: 200px;
+}
+.luk img{
+    width:600px;
+}
+.hit:hover{
+background-color:#AD49E1;
+transition: .9s;
+color: #fff;
+}
+.jay:hover{
+background-color:#5A639C;
+transition: .9s;
+color: #fff;
+}
+.seru button {
+    background-color: orangered;
+    border: none;
+    padding: 10px 10px;
+    font-weight: 600px;
+}
+.null{
+    padding-top: 100px;
+}
+.mui{
+    padding-top: 50px;
+}
+.seru{
+    padding-top: 50px;
+}
+
+.jay{
+    background-color: #fff;
+    padding: 20px 60px;
+}
+.hit{
+    background-color:#fff ;
+    padding:20px 60px ;
+}

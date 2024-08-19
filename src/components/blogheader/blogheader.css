@@ -1,0 +1,8 @@
+#right{
+    
+    background-image: url('../../assets/header1.png');
+    background-size: cover; /* Make the background cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+ padding:200px 0;
+}

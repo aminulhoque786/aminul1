@@ -1,0 +1,42 @@
+#hundred{
+    padding-top: 140px;
+    background-image: url('../../assets/hundred.png');
+    background-size: cover; /* Make the background cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+ padding:100px 0;
+}
+.gui{
+    background-color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+}
+.hug{
+    padding-top: 30px;
+}
+.jui h2{
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+.jui p{
+  
+    font-size: 18px;
+    font-family: "Nunito", sans-serif;
+    width:550;
+    font-weight: 400;
+
+}
+.gui h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.tom button{
+    background-color: orangered;
+    border-radius: 10px;
+    box-shadow: none;
+}
+.gui:hover{
+    background: linear-gradient(to bottom, #b8adaa, #0a81b1);
+    transition: .5s !important;
+}

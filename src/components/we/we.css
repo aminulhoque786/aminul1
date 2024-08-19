@@ -1,0 +1,28 @@
+#we{
+    padding-top: 120px;
+    background-color: #FCF5F3;
+}
+.bui{
+    padding-top: 100px;
+}
+.bui p{
+    padding-top: 20px;
+}
+.bui h2{
+    font-size: 36px;
+    font-weight: 600;
+    width:595px;
+    font-family: "Poppins", sans-serif;
+}
+.bio p{
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    font-weight: 500;
+    color: #29313D;
+}
+.kaku img{
+    width:600px;
+}
+.tense{
+    padding-top: 100px;
+}

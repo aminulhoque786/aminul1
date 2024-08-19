@@ -1,0 +1,58 @@
+#price{
+    padding: 118px  118px;
+    background-color: #EDF3F7;
+}
+.business{
+    text-align: center;
+    align-items: center;
+}
+.business h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+}
+.taka{
+    padding-top: 80px;
+}
+.junk h2{
+    font-family: "Poppins", sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.juh p{
+width:362px;
+padding-top: 16px;
+font-size: 18px;
+font-family: "Nunito", sans-serif;
+
+}
+.dollar h1{
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    padding-top: 34px;
+}
+.tyu{
+    padding-top: 38px;
+}
+.tyu button {
+    background-color: orangered;
+    padding: 10px 20px;
+    border: none;
+}
+.tar{   
+    padding-top: 30px;
+}
+.taka{
+   gap: 40px;
+}
+
+.btn-primary {
+border: none;
+}
+button{
+    border:none;
+}
+.taka:hover{
+    transform: scale(1.1); 
+    transition: transform 0.3s ease;
+    transition: .9s;
+}
